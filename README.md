@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Cool GIF](https://github.com/user-attachments/assets/ee2c29ed-49e7-4433-be05-0328660a9457)
+![Cool GIF](https://github.com/user-attachments/assets/ce3fe0e0-7acb-424a-a5c3-4ecbfe496795)
 <!--
 **Sujain-kumar/Sujain-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
